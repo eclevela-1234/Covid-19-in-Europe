@@ -1,4 +1,4 @@
-iso_code,continent,Country,date,Cases,Deaths,Cases/M,Deaths/M,Population,Density,GDP,HDI,Score,Region
+iso_code,continent,Country,date,Cases,Deaths,CasesPerMil,DeathsPerMil,Population,Density,GDP,HDI,Score,Region
 ALB,Europe,Albania,2021-04-30,131085.0,2394.0,45550.42,831.885,2877800.0,104.87100000000001,11803.431,0.795,36.0,Eastern Europe
 AUT,Europe,Austria,2021-04-30,618870.0,10205.0,68714.47,1133.083,9006400.0,106.749,45436.685999999994,0.922,76.0,Western Europe
 BLR,Europe,Belarus,2021-04-30,358738.0,2542.0,37964.421,269.014,9449321.0,46.858000000000004,17167.967,0.823,47.0,Eastern Europe
