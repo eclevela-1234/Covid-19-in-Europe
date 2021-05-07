@@ -38,4 +38,8 @@ It felt like it was time to drill down to a smaller unit of geography.  Europe h
 * Surely factors such as health care access, cost of living, and overall quality of life would imact COVID cases or deaths, right?  They did not.  
 ### Geo-political Regions
 * We separarted Europe into four geo-political regions: Northern, Southern, Eastern, and Western.  
-* This analysis showed that Northern Europe indeed had less COVID cases and deaths (even with Sweden as an outlier) than the rest of Europe.
+* This analysis showed that Northern Europe indeed had less COVID cases and deaths (even with Sweden as an outlier) than other areas of Europe.
+
+## Conclusions/Further Research
+* There are differences betweeen countries regarding COVID cases and deaths - the challenge is finding the right level of analysis.
+* While income 
