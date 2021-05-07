@@ -22,7 +22,7 @@
 
 ## First Steps (or - how our hopes were dashed)
 1. Data set cleaned to remove certain columns and to create a cumulative number of COVID cases and deaths.
-2. We realized that the vaccination data is not adequete for analysis - very few countries reporting the data and just not enough information to work with.
+2. We realized that the vaccination data is not adequate for analysis - very few countries reporting the data and just not enough information to work with.
 3. Scatterplots were run to see if our independent variables correlated with our dependent variables.  This did not yield enough fruit to keep this line of analysis going.
 4. We realized that the level of analysis is just too _big_.  GDP is too broad a measure; cases or deaths by country 
 
@@ -35,13 +35,14 @@ It felt like it was time to drill down to a smaller unit of geography.  Europe h
 ### Schengen Regions
 * We hoped that dividing Europe into Schengen Regions (where free travel access is and is not permitted) may find some correlation, but it did not (p-value of .516).
 ### Quality of Life Index
-* Surely factors such as health care access, cost of living, and overall quality of life would imact COVID cases or deaths, right?  They did not.  
+* Surely factors such as health care access, cost of living, and overall quality of life would impact COVID cases or deaths, right?  They did not.  
 ### Geo-political Regions
-* We separarted Europe into four geo-political regions: Northern, Southern, Eastern, and Western.  
+* We separated Europe into four geo-political regions: Northern, Southern, Eastern, and Western.  
 * This analysis showed that Northern Europe indeed had less COVID cases and deaths (even with Sweden as an outlier) than other areas of Europe.
 
 ## Conclusions/Further Research
-* There are differences betweeen countries regarding COVID cases and deaths - the challenge is finding the right level of analysis.
-* It seems logical that there is a link betweeen wealth and health outcomes, but this correlation does not show up when comparing nations against each other, nor for extremely broad factors such as GDP.
+* There are differences between countries regarding COVID cases and deaths - the challenge is finding the right level of analysis.
+* It seems logical that there is a link between wealth and health outcomes, but this correlation does not show up when comparing nations against each other, nor for extremely broad factors such as GDP.
 * A lingering issue is the reliability of data - reporting on COVID cases and deaths has a wide variability due to circumstances like access to testing, access to accurate cause of death determination, and government efforts to hide the total number of cases.
 * While vaccine data was not substantial in this dataset, this research will be possible as more countries vaccinate and report this data.
+
