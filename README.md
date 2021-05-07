@@ -42,4 +42,6 @@ It felt like it was time to drill down to a smaller unit of geography.  Europe h
 
 ## Conclusions/Further Research
 * There are differences betweeen countries regarding COVID cases and deaths - the challenge is finding the right level of analysis.
-* While income 
+* It seems logical that there is a link betweeen wealth and health outcomes, but this correlation does not show up when comparing nations against each other, nor for extremely broad factors such as GDP.
+* A lingering issue is the reliability of data - reporting on COVID cases and deaths has a wide variability due to circumstances like access to testing, access to accurate cause of death determination, and government efforts to hide the total number of cases.
+* While vaccine data was not substantial in this dataset, this research will be possible as more countries vaccinate and report this data.
