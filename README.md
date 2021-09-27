@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/79372665/134965605-787e84e3-b9ae-45f6-aa78-70b4e84506ab.png)
+
 # Team GEM Project
 
 ## Team Members
