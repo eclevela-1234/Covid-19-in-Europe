@@ -5,6 +5,9 @@
 ## Team Members
 * Gina Freed, Eliot Cleveland, Marc Leslie
 
+## Presentation
+[Download Powerpoint](https://github.com/eclevela-1234/Covid-19-in-Europe/blob/main/Covid-19%20Presentation%20Team%20GEM.pptx)
+
 ## Project Questions
 * What national-level factors correlate with rates of COVID-19 infections, deaths, and vaccinations?  
 * And when those national-level factors don't really work out so well, what _else_ can we look at that may correlate?
